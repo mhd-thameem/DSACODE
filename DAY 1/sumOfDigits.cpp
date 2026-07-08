@@ -10,9 +10,3 @@ int main(){
     int x=785;
     cout<<sumOfDigits(x);
 }
-git init
-git add sumOfDigits.cpp fibo.cpp isPalindrome.cpp power.cpp
-git commit -m "Day 5: recursion practice - sumOfDigits, power, palindrome, fibonacci"
-git branch -M main
-git remote add origin https://github.com/mhd-thameem/DSACODE.git
-git push -u origin main
